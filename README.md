@@ -41,8 +41,18 @@ Some of databases in ST05 show all the columns when * is used, another show only
 
 ![](ST05_5.png)
 
-# ST05 fields and screen can be different based on the database of the server. But all the shortcuts are the same.
+# ST05 fields and screen can be different based on the database of the server. 
 
+Example:
+
+Informations of ddic and abap statement
+![](ST05_16.png)
+
+In some other databases:
+![](ST05_4.png)
+
+Sumarize SQL statements (Equivalent to "![](ST05_15.png)")
+![](ST05_7.png)
 
 
 
