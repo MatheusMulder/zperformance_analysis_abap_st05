@@ -51,9 +51,8 @@ Informations of ddic and abap statement
 In some other databases:
 ![](ST05_4.png)
 
-Sumarize SQL statements (Equivalent to "![](ST05_15.png)")
+Sumarize SQL statements in other database:
 ![](ST05_7.png)
-
 
 
 
