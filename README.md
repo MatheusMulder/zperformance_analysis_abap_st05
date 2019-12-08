@@ -9,7 +9,7 @@ Combine SQL statements
 ![](ST05_15.png)
 
 The duration column measure is microseconds. You can use https://convertlive.com/u/convert/microseconds/to/seconds to convert. 
-In this case was 12.386.327 microsends, in seconds is 12,38s. 
+In this case was 12.386.327 microseconds, in seconds is 12,38s. 
 
 ![](ST05_14.png)
 
