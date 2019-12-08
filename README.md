@@ -41,7 +41,7 @@ Some of databases in ST05 show all the columns when * is used, another show only
 
 ![](ST05_5.png)
 
-# ST05 fields and screen can be different based on the database of the server. 
+# ST05 fields and screen can be different based on the database of the server AND SAP_APL/S4CORE
 
 Example:
 
